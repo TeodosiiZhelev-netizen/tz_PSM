@@ -10,7 +10,7 @@
 /*********************************************************************************************************************/
 #include "Typedef.h"
 #include "CommMngr.h"
-#include "Comm Mngr_integration.h"
+#include "CommMngr_integration.h"
 #include "CommMngr_cfg.h"
 /*********************************************************************************************************************/
 /* Define agreements/data types                                                                            			 */
