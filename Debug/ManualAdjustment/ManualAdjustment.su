@@ -1,0 +1,4 @@
+../ManualAdjustment/ManualAdjustment.c:49:6:ManAdj_Start	4	static
+../ManualAdjustment/ManualAdjustment.c:53:6:ManAdj_Do	16	static
+../ManualAdjustment/ManualAdjustment.c:73:6:ManAdj_Stop	4	static
+../ManualAdjustment/ManualAdjustment.c:83:6:ManAdj_Init	4	static

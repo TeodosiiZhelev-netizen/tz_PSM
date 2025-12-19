@@ -1,0 +1,5 @@
+../KbdDrv/KbdDrv.c:51:17:KbdDrv_GetAutReq	24	static
+../KbdDrv/KbdDrv.c:63:17:KbdDrv_GetManReq	24	static
+../KbdDrv/KbdDrv.c:80:6:KbdDrv_Init	4	static
+../KbdDrv/KbdDrv.c:84:6:KbdDrv_Task	56	static
+../KbdDrv/KbdDrv.c:105:16:IsVoltageInRange	24	static

@@ -1,0 +1,14 @@
+../IOHWAB/IOHWAB.c:41:6:IOHWAB_Task	4	static
+../IOHWAB/IOHWAB.c:43:6:IOHWAB_Init	8	static
+../IOHWAB/IOHWAB.c:49:6:IOHWAB_SetAO	4	static
+../IOHWAB/IOHWAB.c:53:6:IOHWAB_SetDO	4	static
+../IOHWAB/IOHWAB.c:56:6:IOHWAB_SetAI	4	static
+../IOHWAB/IOHWAB.c:60:6:IOHWAB_SetDI	4	static
+../IOHWAB/IOHWAB.c:65:8:IOHWAB_GetSpHeatADCVolatage	4	static
+../IOHWAB/IOHWAB.c:70:8:IOHWAB_GetSpPneuHorADCVolatage	4	static
+../IOHWAB/IOHWAB.c:75:8:IOHWAB_GetSpPneuVerADCVolatage	4	static
+../IOHWAB/IOHWAB.c:80:8:IOHWAB_GetSpMemoryADCVolatage	4	static
+../IOHWAB/IOHWAB.c:85:8:IOHWAB_GetSpTiltADCVolatage	4	static
+../IOHWAB/IOHWAB.c:90:8:IOHWAB_GetSpBackRestADCVolatage	4	static
+../IOHWAB/IOHWAB.c:95:8:IOHWAB_GetSpHeightADCVolatage	4	static
+../IOHWAB/IOHWAB.c:100:8:IOHWAB_GetSpSlideADCVolatage	4	static

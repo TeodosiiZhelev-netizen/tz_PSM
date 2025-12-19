@@ -1,0 +1,5 @@
+../KbdDrv/KbdDrv.c:51:17:KbdDrv_GetAutReq	2
+../KbdDrv/KbdDrv.c:63:17:KbdDrv_GetManReq	2
+../KbdDrv/KbdDrv.c:80:6:KbdDrv_Init	1
+../KbdDrv/KbdDrv.c:84:6:KbdDrv_Task	4
+../KbdDrv/KbdDrv.c:105:16:IsVoltageInRange	3

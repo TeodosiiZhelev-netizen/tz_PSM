@@ -1,0 +1,5 @@
+../SeatPositionControl/SeatPositionControl.c:47:6:SeatPosCtrl_Init	1
+../SeatPositionControl/SeatPositionControl.c:51:6:SeatPosCtrl_Task	4
+../SeatPositionControl/SeatPositionControl.c:72:17:SeatPosCtrl_Move	5
+../SeatPositionControl/SeatPositionControl.c:98:17:SeatPosCtrl_Position	5
+../SeatPositionControl/SeatPositionControl.c:119:6:PosCtlr_StopAll	1
